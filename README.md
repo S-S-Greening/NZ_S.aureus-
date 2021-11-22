@@ -1,2 +1,2 @@
 # NZ_S.aureus-
-Availability of data and materials for the paper entitled; "Genetic relatedness of Staphylococcus aureus isolates obtained from New Zealand dairy cattle"
+Full Scoary results for the paper entitled; "The Genetic Relatedness and Antimicrobial Resistance Patterns of Mastitis-Causing Staphylococcus aureus Strains Isolated from New Zealand Dairy Cattle".
